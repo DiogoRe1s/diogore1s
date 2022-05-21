@@ -20,5 +20,6 @@ For now its just this 😞
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogore1s&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
+  ![4uLV](https://user-images.githubusercontent.com/105984966/169662697-77296ef2-7424-49db-ae97-b086b1595f82.gif)
   
   
