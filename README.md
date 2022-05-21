@@ -3,6 +3,8 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/diogore1s)](https://github.com/diogore1s)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diogo-reis-1408b6239/)](https://www.linkedin.com/in/diogo-reis-1408b6239/)
 
+ ![4uLV](https://user-images.githubusercontent.com/105984966/169662697-77296ef2-7424-49db-ae97-b086b1595f82.gif)
+
 ## About me:
 
 I'm a Front-End Developer :smile:
@@ -15,11 +17,12 @@ I Love make beautiful stuffs, and i also love strawberrys 🍓 🍓
 
 For now its just this 😞
 
-<div align="center">
+<div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diogore1s&theme=dark&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogore1s&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
-  ![4uLV](https://user-images.githubusercontent.com/105984966/169662697-77296ef2-7424-49db-ae97-b086b1595f82.gif)
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=22cnnqyyyrqeeilyjsr7eybay)
+ 
   
   
